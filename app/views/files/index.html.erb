@@ -1,0 +1,9 @@
+
+<h1><%= link_to 'files',files_path %> </h1>
+<ul>
+  <% @files.each do |file| %>
+    <li>
+      <%= link_to file, files_path(next: file) %> 
+    </li>
+  <% end %>
+</ul>
