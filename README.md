@@ -12,4 +12,4 @@ Video End: totally
 <br/>
 
 Date: Feb 26 2021
-Tut: 
+Tut: week 4 day 1 part 4 
