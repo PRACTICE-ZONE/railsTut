@@ -4,5 +4,6 @@ class SayController < ApplicationController
     @name = params[:name]
   end
   def goodby
+    @name = params[:name]
   end
 end
