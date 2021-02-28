@@ -1,7 +1,7 @@
  The below file contains folder tree with all the files
 <h1><%= link_to 'files',files_path %> </h1>
 <ul>
-  <li class="file"><%= link_to '..', files_path(next: "I dont know") %></li>
+  <li class="file"><%= link_to '..', files_path(next: "I dont know"), target: 'blank' %></li>
   <% @files.each do |file| %>
     <li>
       <%= link_to file, files_path(next: file) %> 
