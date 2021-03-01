@@ -28,6 +28,8 @@ End time: 11:47pm
 video End : 22m00s 
 <br/>
 
+************ Learning params *******************************************
+
 Date: feb 28 2021
 
 tut: week 4 day 1 part 4
