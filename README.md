@@ -1,13 +1,13 @@
 <br />
-Date: Feb 24, 2021 
+> Date: Feb 24, 2021 
 
-Tut: Week 4 day 1 part 3
+> Tut: Week 4 day 1 part 3
 
-start time: 
+> start time: 
 
-end time: 11:03
+> end time: 11:03
 
-video end time: 25m19s 
+> video end time: 25m19s 
 
 <br/>
 ********************************************************************
