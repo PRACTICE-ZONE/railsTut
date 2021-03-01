@@ -10,14 +10,15 @@ end time: 11:03
 video end time: 25m19s 
 
 <br/>
+********************************************************************
+> Date: Feb 25, 2021
 
-Date: Feb 25, 2021
+> Tut: week 4 day 1 part 3
 
-Tut: week 4 day 1 part 3
+> End time: 12:31pm
 
-End time: 12:31pm
+> Video End: totally
 
-Video End: totally
 <br/>
 
 **************************************************************************
