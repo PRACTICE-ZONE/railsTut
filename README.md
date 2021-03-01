@@ -20,3 +20,7 @@ Date: feb 28 2021
 tut: week 4 day 1 part 4
 end time: 23:59
 video end : 30m55s
+
+Date: 01 March 2021
+tut: week 4 day 1 part 4
+
