@@ -1,3 +1,4 @@
+<br />
 Date: Feb 24, 2021 
 
 Tut: Week 4 day 1 part 3
@@ -43,6 +44,9 @@ Date: 01 March 2021
 tut: week 4 day 1 part 4
 
 i learned debugging at 34m46
+
+ending video : 41m18
+<br />
 
 
 
