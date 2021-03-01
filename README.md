@@ -20,32 +20,36 @@ End time: 12:31pm
 Video End: totally
 <br/>
 
-Date: Feb 26 2021
+**************************************************************************
 
-Tut: week 4 day 1 part 4 
+> Date: Feb 26 2021
 
-End time: 11:47pm
+> Tut: week 4 day 1 part 4 
 
-video End : 22m00s 
+> End time: 11:47pm
+
+> video End : 22m00s 
+
 <br/>
 
 ************ Learning params *******************************************
 
-Date: feb 28 2021
+> Date: feb 28 2021
 
-tut: week 4 day 1 part 4
+> tut: week 4 day 1 part 4
 
-end time: 23:59
+> end time: 23:59
 
-video end : 30m55s
+> video end : 30m55s
 
-Date: 01 March 2021
+> Date: 01 March 2021
 
-tut: week 4 day 1 part 4
+> tut: week 4 day 1 part 4
 
-i learned debugging at 34m46
+> i learned debugging at 34m46
 
-ending video : 41m18
+> ending video : 41m18
+
 <br />
 
 
