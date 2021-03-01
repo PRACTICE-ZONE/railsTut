@@ -1,6 +1,6 @@
 class FilesController < ApplicationController
   def index 
-    if params[:next]
+    if params[:next].present?
       path = params[:next] + "/*"
       # @files = Dir[File.join(params[:next], "*")]
       @files = Dir[path]
