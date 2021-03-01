@@ -3,7 +3,7 @@ class FilesController < ApplicationController
     if params[:next].present?
       @files = Dir[File.join(params[:next], "*")]
       @current = params[:next].split("/")[0..-2].join("/")
-      @parent = path.split('/')
+      @parent = path.split("/")[0..-2].join("/")
     else
       @files = Dir['*']
     end
