@@ -7,7 +7,9 @@
   <% end %>
   <% if @content %>
     <li>
-      <% @contains %>
+      <pre>
+      <% @content %>
+      </pre>
     </li>
   <% else %>
   <% @files.each do |file| %>
