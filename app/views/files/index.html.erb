@@ -6,7 +6,9 @@
      <%= link_to '..', files_path(next: @parent) %></li>
   <% end %>
   <% if @content %>
-    <% @contains %>
+    <li>
+      <% @contains %>
+    </li>
   <% else %>
   <% @files.each do |file| %>
     <li>
