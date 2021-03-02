@@ -9,5 +9,8 @@ class FilesController < ApplicationController
     else
       @files = Dir['*']
     end
+    if File.file?(path)
+      @content = File.read(path)
+    end
   end
 end
