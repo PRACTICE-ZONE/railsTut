@@ -5,12 +5,17 @@
   <% if @parent %>
      <%= link_to '..', files_path(next: @parent) %></li>
   <% end %>
+  <% if @content %>
+    <% @contains %>
+  <% else %>
   <% @files.each do |file| %>
     <li>
       <%= link_to file, files_path(next: file) %> 
     </li>
    
   <% end %>
+  <% end %>
+  
    <li>
       <b>
       <%= link_to "GoodBy" , say_goodby_path(name:"Grammy") %>
