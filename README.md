@@ -57,7 +57,10 @@
 
 **************************************************************************
 > Date 03 March 
-
+> Finishing the tut BR1 week4 day1 part 4 mvc lab recap
+> I learned how to read file and display to views
+> I created the data folder inside there is 0.md file with 4 lines of data
+>
 
 
 
