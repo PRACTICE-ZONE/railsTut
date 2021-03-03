@@ -1,2 +1,13 @@
 <h1>Lists#index</h1>
 <p>Find me in app/views/lists/index.html.erb</p>
+
+<div class = "lists">
+  <% @lists.each do |list| %>
+    <div class = "list">
+      <% list[:items].each do |item| %>
+        <div class ="item <%= 'done' if item[:done] %>"<%= item[:name] %></div>
+      <% end %>
+    </div>
+  <% end %>
+</div>
+
