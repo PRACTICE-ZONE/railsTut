@@ -6,7 +6,7 @@ class ListsController < ApplicationController
       lines = File.read(name).split("\n")
       list[:name] = line.shift
       list[:item] = []
-      lines.map do |line| 
+      lines.each do |line| 
         list[:item] << { name: line[6..-1], done: line[3] == "x" }
       end
       @lists << list
