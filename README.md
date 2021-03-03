@@ -62,6 +62,8 @@
 > I created the data folder inside there is 0.md file with 4 lines of data
 > **** Looking at api.rubyonrails.org **************
 > BR1 week4 day 2 part 1
+> 07m he explains all the scaffold generators
+< I got important point in 12m50 render and redirect 
 
 
 
