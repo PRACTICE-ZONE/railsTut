@@ -5,9 +5,9 @@ class ListsController < ApplicationController
       list = { }
       lines = File.read(name).split("\n")
       list[:name] = lines.shift
-      list[:item] = []
+      list[:items] = []
       lines.each do |line| 
-        list[:item] << { name: line[6..-1], done: line[3] == "x" }
+        list[:items] << { name: line[6..-1], done: line[3] == "x" }
       end
       @lists << list
     end 
