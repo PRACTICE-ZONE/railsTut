@@ -77,7 +77,10 @@
 
 ************ Routes helpers *************************************
 > got to any controller and /info
+
 > search your route in the search box very simple
+
+> 16m36s very good route helpers meaning explanation
 
 
 
