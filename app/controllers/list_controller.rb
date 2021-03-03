@@ -7,7 +7,7 @@ class ListController < ApplicationController
       list[:name] = line.shift
       list[:item] = []
       lines.map do |line| 
-        
+        list[:item] << { name: line[6..-1], done: line[3] == "x"
       end
     end 
   end
