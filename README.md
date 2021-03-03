@@ -75,6 +75,11 @@
 > I got important point in 12m50 render and redirect 
 
 
+************ Routes helpers *************************************
+> got to any controller and /info
+> search your route in the search box very simple
+
+
 
 
 
