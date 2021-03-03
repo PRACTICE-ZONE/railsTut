@@ -5,6 +5,10 @@ class ListController < ApplicationController
       list = { }
       lines = File.read(name).split("\n")
       list[:name] = line.shift
+      list[:item] = []
+      lines.map do |line| 
+        
+      end
     end 
   end
 end
