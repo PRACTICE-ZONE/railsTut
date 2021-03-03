@@ -1,7 +1,12 @@
 <h1>List#index</h1>
 <p>Find me in app/views/list/index.html.erb</p>
 
-<div class = "list">
+<div class = "lists">
   <% @lists.each do |list| %>
+    <div class = "list">
+      <% list[:items].each do |item| %>
+      
+      <% end %>
+    </div>
   <% end %>
 </div>
